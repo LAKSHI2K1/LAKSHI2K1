@@ -20,7 +20,7 @@
 
 ## ✨ About Me  
 
-- 🔭 Working on **Online Auction Management System**  
+- 🔭 Working on **PeerPal System**  
 - 🌱 Learning **Advanced MERN & Data Science**  
 - 🎯 Goal: Become a **Top Business Analyst in Tech**  
 - 💡 Passionate about **System Design & Problem Solving**  
