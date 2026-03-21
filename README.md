@@ -66,24 +66,25 @@
 
 ---
 
-## 🔥 Featured Projects  
-
-### 🚀 Online Auction Management System  
-- Full MERN Stack  
-- Real-time bidding  
-- Seller dashboards  
-- IoT integration  
-
-### 🚗 Driving School System  
-- Booking & scheduling system  
-- User-friendly UI  
-
-### 🏦 Bank Transfer Request System  
-- Role: Business Analyst  
-- SRS, User Stories, Workflows  
-
 ---
 
+## 💼 Projects  
+
+  <b>🚀 Online Auction Management System</b><br>
+  - MERN-based full-stack system<br>
+  - Real-time bidding, seller dashboards<br>
+  - IoT integration concepts<br><br>
+
+  <b>☕ BrewZilla</b><br>
+  - Coffee shop mobile/web app<br>
+  - Menu browsing, ordering & secure payments<br>
+  - Designed with user-friendly interface<br><br>
+
+  <b>💰 Money Nest</b><br>
+  - Personal finance <br>
+  - Budget tracking, reporting, and analytics<br>
+
+---
 ## <p align="center">🌐 Connect With Me</p>
 
 <p align="center">
